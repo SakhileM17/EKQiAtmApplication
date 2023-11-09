@@ -1,0 +1,9 @@
+package application
+
+import javafx.scene.text.*
+import javafx.scene.control.*
+import java.lang.*
+import javafx.scene.layout.*
+import javafx.scene.layout.BorderPane
+
+component Sample{AnchorPane{minHeight:-Infinity,minWidth:-Infinity,prefHeight:400.0,prefWidth:600.0,children:[Label{alignment:"CENTER",layoutX:200.0,layoutY:31.0,prefHeight:39.0,prefWidth:200.0,text:"Welcome",font:Font{name:"System Bold",size:27.0}},Label{alignment:"CENTER",layoutX:102.0,layoutY:85.0,prefHeight:64.0,prefWidth:400.0,text:"Welcome to EKQiEnterprise Financial Services : "},TextField{layoutX:152.0,layoutY:210.0,prefWidth:300.0},Button{layoutX:263.0,layoutY:318.0,mnemonicParsing:false,onAction:controllermethod handleButtonAction,text:"Confirm"},Label id responseDemo{layoutX:150.0,layoutY:263.0,prefHeight:21.0,prefWidth:300.0},Label{layoutX:242.0,layoutY:159.0,text:"Enter your name : "}]}}

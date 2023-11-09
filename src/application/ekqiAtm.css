@@ -1,0 +1,29 @@
+
+
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.anchorPaneContainer {
+	
+	 -fx-background-color: #F1F2F2; /*Grey color*/
+	 
+	 
+	 
+}
+
+.anchorPaneScenes {
+	
+	-fx-background-color: white;
+	
+	-fx-background-radius: 18 18 18 18;
+    -fx-border-radius: 18 18 18 18;
+    
+	
+}
+
+
+
+.table-view .column-header .label {
+    -fx-background-color: #262261;
+    -fx-text-fill: white;
+    
+}
