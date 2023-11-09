@@ -1,4 +1,4 @@
-# EKQiAtmApplication
+# EKQiAtmApplication (GUI)
 
 <p>My first GUI java application, the beginning of an amazing career as a software developer. My goal is to one day look back at this application to see how far i've come and grown<br> </p>
 
