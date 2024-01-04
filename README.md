@@ -42,6 +42,7 @@
 <h2>Getting Started</h2>
 
 <p>Follow these steps to get the Java ATM project up and running on your local machine. The project was developed using Eclipse IDE for Enterprise Java and WebDevelopers - 20 </p>
+<p>On the module-info.java file, Please configure the project set up by "Adding library 'JavaFX' to build path 'EKQiAtmApplication'" </p>
 
 <h2>Usage</h2>
 <p>Launch application the Main.Java file. Default Account Pin is "2023"</p>
