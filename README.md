@@ -57,6 +57,7 @@
 Email      :<a href = "mailto: ekqienterprise@gmail.com">  ekqienterprise@gmail.com</a> <br>
 LinkedIn   :<a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/sakhile-mkhalele?trk=profile-badge" target="_blank">  Sakhile Mkhalele</a></div>
 </p>
+<p>Thank You</p>
 
 
               
