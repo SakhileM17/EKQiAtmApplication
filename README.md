@@ -1,6 +1,6 @@
 # EKQiAtmApplication (GUI)
 
-<p>My first GUI java application, the beginning of an amazing career as a software developer. My goal is to one day look back at this application to see how far i've come and grown<br> </p>
+<p>My first GUI java application, the beginning of an amazing career as a software developer. My goal is to one day look back at this ATM application to see how far i've come and grown<br> </p>
 
 <h2>Description</h2>
 <p>This repository contains a simple ATM (Automated Teller Machine) simulation built in Java to demonstrate the fundamental operations of an ATM system. The project provides a GUI interface for users to interact with the ATM, 
