@@ -50,7 +50,7 @@
 <p>Please note that the Account Pin is the cheque Account number "2023" you can update it to your preference in the EKQiAtm.Java File.</p>
 
 <h2>Acknowledgement</h2>
-<p>Applicaton was developed by Sakhile Mkhalele 2023</p>
+<p>Java Applicaton was developed by Sakhile Mkhalele in November 2023</p>
 
 <h2>Contact</h2>
 <p>For any questions please dont hesitate to contact me : <br><br>
